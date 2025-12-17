@@ -1,0 +1,5 @@
+{
+  "name": "Linear Algebra AI Tutor",
+  "description": "A specialized AI tutor for undergraduate Linear Algebra powered by DeepSeek R1, offering reasoning traces, step-by-step guidance, and concept explanations.",
+  "requestFramePermissions": []
+}
